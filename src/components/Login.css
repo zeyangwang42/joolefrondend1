@@ -1,0 +1,28 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+.signupLink{
+   position: absolute;
+   right: 1%
+}
+input{
+   background-color: white;
+   text-align: center;
+   padding: 5px 8px;
+   outline: #4568ff;
+}
+.form-group{
+   text-align: center;
+}
+.registerButton{
+   padding: 5px 62px 5px 25px;
+   font-size: 16px;
+   background-color: #1183d6;
+   white-space:nowrap;
+   overflow:hidden;
+   text-align: center;
+}
+.LoginH1{
+   font-size: 200px;
+}

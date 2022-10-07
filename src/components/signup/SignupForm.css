@@ -1,0 +1,50 @@
+.form-group{
+    height: 80px;
+}
+
+label{
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    padding-right: 10px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+    top:50%;
+}
+.form-text-information{
+    text-align: center;
+    text-underline-color: red;
+    color: red;
+}
+input[type=email]{
+    background-color: white;
+    width: 100px;
+}
+input[type=password]{
+    background-color: white;
+    width: 100px;
+}
+input[type=text]{
+    background-color: white;
+    width: 100px;
+}
+.signupInput{
+    background-color: white;
+    width: 100px;
+}
+#registerButton{
+    background-color: #4568ff; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 68px 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border: #10109b;
+}

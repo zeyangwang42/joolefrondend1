@@ -1,0 +1,35 @@
+select{
+    background-color: darkgrey;
+    height: 30px;
+    display: inline;
+}
+input{
+    width: 50px;
+}
+a{
+    right: 0%;
+}
+div{
+    text-align: center;
+
+}
+#projectLink{
+    text-align: right;
+}
+#signinLink{
+    text-align: right;
+}
+.seacrchTypeDiv{
+    top: 50%;
+    vertical-align: top;
+    display: inline;
+}
+.ProjectAndUser{
+    position: absolute;
+    right: 1%;
+}
+.searchPageH1{
+    font-size: 200px;
+}
+
+
